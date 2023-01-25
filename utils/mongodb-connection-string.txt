@@ -1,5 +1,0 @@
-MDN Local Library:
-
-Connection String: mongodb+srv://RAL:RL77381@tx@cluster0.jhnv6ns.mongodb.net/local_library?retryWrites=true&w=majority
-
-'mongodb+srv://RAL:RL77381%40tx@cluster0.jhnv6ns.mongodb.net/local_library?retryWrites=true&w=majority'
