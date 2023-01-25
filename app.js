@@ -14,7 +14,7 @@ var app = express();
 const mongoose = require('mongoose');
 mongoose.set('strictQuery', false);
 const mongoDB =
-  'mongodb+srv://RAL:RL77381@tx@cluster0.jhnv6ns.mongodb.net/local_library?retryWrites=true&w=majority';
+  'mongodb+srv://RAL:RL77381%40tx@cluster0.jhnv6ns.mongodb.net/local_library?retryWrites=true&w=majority';
 
 main().catch((err) => console.log(err));
 async function main() {
